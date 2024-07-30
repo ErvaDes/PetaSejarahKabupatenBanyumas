@@ -1,0 +1,14 @@
+var json_SejarahKabupatenBanyumas_2 = {
+"type": "FeatureCollection",
+"name": "SejarahKabupatenBanyumas_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Kompleks Rumah Eks-Residen Banyumas", "Web": "https://sites.google.com/d/1YR8TNN4MsLoIMD7JZzA8DyoykFcOa7ZG/p/1oR6SKpU5ZxQQncN_a8osKxBKxxVx6VkS/edit", "Gambar": "C:\\Users\\Lenovo\\Documents\\Gambar Wisata Banyumas\\smk 1 bms.jpg" }, "geometry": { "type": "Point", "coordinates": [ 109.293843, -7.528497 ] } },
+{ "type": "Feature", "properties": { "Name": "Kota Lama Banyumas", "Web": "https://sites.google.com/d/1YR8TNN4MsLoIMD7JZzA8DyoykFcOa7ZG/p/1sZgzMYDGDQ3AxCOHOUGe-nenoRofbDjD/edit", "Gambar": "C:\\Users\\Lenovo\\Documents\\Gambar Wisata Banyumas\\Kota Lama Banyumas.png" }, "geometry": { "type": "Point", "coordinates": [ 109.294038060000048, -7.512800555999945 ] } },
+{ "type": "Feature", "properties": { "Name": "MUSEUM WAYANG SENDHANG MAS", "Web": "https://sites.google.com/d/1YR8TNN4MsLoIMD7JZzA8DyoykFcOa7ZG/p/1CU1yW8SVo0L0mHiwMMZp9C7WQxmgwkcB/edit", "Gambar": "C:\\Users\\Lenovo\\Documents\\Gambar Wisata Banyumas\\Museum wayang.jpeg" }, "geometry": { "type": "Point", "coordinates": [ 109.294294493000052, -7.514781094999933 ] } },
+{ "type": "Feature", "properties": { "Name": "MASJID AGUNG NUR SULAIAMAN", "Web": "https://sites.google.com/d/1YR8TNN4MsLoIMD7JZzA8DyoykFcOa7ZG/p/1D1wjVnmd6JO72fKnf0y3DtUQl7TJ7v3Z/edit", "Gambar": "C:\\Users\\Lenovo\\Documents\\Gambar Wisata Banyumas\\masjid agung nur sulaiman.jpeg" }, "geometry": { "type": "Point", "coordinates": [ 109.292568889000052, -7.516554751999934 ] } },
+{ "type": "Feature", "properties": { "Name": "ALUN ALUN BANYUMAS", "Web": "https://sites.google.com/d/1YR8TNN4MsLoIMD7JZzA8DyoykFcOa7ZG/p/1dood8ael325flqH6TkwZlZb0M-sXYCZO/edit", "Gambar": "C:\\Users\\Lenovo\\Documents\\Gambar Wisata Banyumas\\alun alun banyumas.jpeg" }, "geometry": { "type": "Point", "coordinates": [ 109.293858991000036, -7.517055662999951 ] } },
+{ "type": "Feature", "properties": { "Name": "RUMAH SAKIT UMUM DAERAH BANYUMAS", "Web": "https://sites.google.com/d/1YR8TNN4MsLoIMD7JZzA8DyoykFcOa7ZG/p/1tLUJglTbIM2MODCMnvBqw08J5fgGhBHy/edit", "Gambar": "C:\\Users\\Lenovo\\Documents\\Gambar Wisata Banyumas\\rsud banyumas.jpeg" }, "geometry": { "type": "Point", "coordinates": [ 109.292398675000072, -7.529884798999944 ] } },
+{ "type": "Feature", "properties": { "Name": "Sekolah mantri kesehatan", "Web": "https://sites.google.com/d/1YR8TNN4MsLoIMD7JZzA8DyoykFcOa7ZG/p/1Y9Mnvgb5tN-7PBASiWUmHF0w9ay_kIzA/edit", "Gambar": "C:\\Users\\Lenovo\\Documents\\Gambar Wisata Banyumas\\puskesmas banyumas.jpeg" }, "geometry": { "type": "Point", "coordinates": [ 109.295592859000067, -7.517026700999963 ] } }
+]
+}
